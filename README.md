@@ -14,4 +14,4 @@ Before running the script, please update these parameters in the script - to ref
 
 # How to do a Audit Log Search
 Use the following information from Microsoft to start an Audit Search from Purview:
-- https://learn.microsoft.com/en-us/purview/audit-search?tabs=microsoft-purview-portal?WT.mc_id=M365-MVP-4020462
+- [Search the audit log](https://learn.microsoft.com/en-us/purview/audit-search?tabs=microsoft-purview-portal?WT.mc_id=M365-MVP-4020462)
