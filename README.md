@@ -8,5 +8,5 @@ Make it read to import into Excel afterwards for further analysis and reporting.
 
 Before running the script, please update these parameters in the script - to reflect your files:
 # Define the input and output file paths
-$inputCsvPath = ".\download.csv"
-$outputCsvPath = ".\AuditData.csv"
+- $inputCsvPath = ".\download.csv"
+- $outputCsvPath = ".\AuditData.csv"
