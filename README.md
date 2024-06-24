@@ -5,3 +5,8 @@ The Audit Log can be exported from the Microsoft 365 Purview Compliance Portal. 
 
 Import the CSV file from the Compliance Portal into this script and it will Convert the AuditData JSON objects in an input CSV file to a flattened CSV format.
 Make it read to import into Excel afterwards for further analysis and reporting.
+
+Before running the script, please update these parameters in the script - to reflect your files:
+# Define the input and output file paths
+$inputCsvPath = ".\download.csv"
+$outputCsvPath = ".\AuditData.csv"
